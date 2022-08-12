@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Mohamed-Elkordi.github.io/todolist_react_app/static/css/main.91ce38fc.css",
+    "main.js": "/Mohamed-Elkordi.github.io/todolist_react_app/static/js/main.bfc0d046.js",
+    "static/js/787.97a945da.chunk.js": "/Mohamed-Elkordi.github.io/todolist_react_app/static/js/787.97a945da.chunk.js",
+    "index.html": "/Mohamed-Elkordi.github.io/todolist_react_app/index.html",
+    "main.91ce38fc.css.map": "/Mohamed-Elkordi.github.io/todolist_react_app/static/css/main.91ce38fc.css.map",
+    "main.bfc0d046.js.map": "/Mohamed-Elkordi.github.io/todolist_react_app/static/js/main.bfc0d046.js.map",
+    "787.97a945da.chunk.js.map": "/Mohamed-Elkordi.github.io/todolist_react_app/static/js/787.97a945da.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.91ce38fc.css",
+    "static/js/main.bfc0d046.js"
+  ]
+}
